@@ -1,10 +1,8 @@
 {
   "models": [
-    { "id": 645, "name": "test-cube"},
-    { "id": 77, "name": "testdafd-cube"}
+    { "id": 645, "name": "test-cube"}
   ],
   "materials": [
-   {"name": "what the fuck"},
-   {"name": "wow"}
+   {"name": "what the fuck"}
   ]
 }

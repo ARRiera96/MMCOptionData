@@ -3,6 +3,6 @@
     { "id": 645, "name": "test-cube"}
   ],
   "materials": [
-   {"id": 1, "name": "Multi Jet Fusion Plastic"}
+   {"id": 1, "name": "Multi Jet Fusion Plastic", "price": 36.12, "swatchUrl": "http://shapeways.com/rrstatic/img/materials/swatch-bsf-gray.png"}
   ]
 }

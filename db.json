@@ -4,7 +4,7 @@
     { "id": 77, "name": "testdafd-cube"}
   ],
   "materials": [
-   {"name": "what the fuck"}
+   {"name": "what the fuck"},
    {"name": "wow"}
   ]
 }

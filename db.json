@@ -3,21 +3,6 @@
     { "id": 645, "name": "test-cube"}
   ],
   "materials": [
-    { "id": 1, "name": "Multi Jet Fusion Plastic", "price": 36.12, "swatchUrl": "http://shapeways.com/rrstatic/img/materials/swatch-bsf-gray.png" },
-    { "id": 2, "name": "Versatile Plastic", "price": 16.50, "swatchUrl": "http://shapeways.com/rrstatic/img/materials/plastic_wsf_white.jpg" },
-    { "id": 3, "name": "Fine Detail Plastic", "price": 46.17, "swatchUrl": "http://shapeways.com/rrstatic/img/materials/swatch-fud-20150310.png" },
-    { "id": 4, "name": "SLA Plastic", "price": 105.60, "swatchUrl": "http://shapeways.com/files/cms/materials/Swatch_SLA_Grey.jpg" },
-    { "id": 5, "name": "PLA11 (SLA)", "price": 35.01, "swatchUrl": "http://shapeways.com/rrstatic/img/materials/plastic_wsf_white.jpg" },
-    { "id": 6, "name": "TPU", "price": 40.08, "swatchUrl": "http://shapeways.com/files/cms/materials/swatches/TPU-White-Swatch.png" },
-    { "id": 7, "name": "Steel", "price": 121.62, "swatchUrl": "http://shapeways.com/rrstatic/img/materials/metal_stainless_steel.jpg" },
-    { "id": 8, "name": "Aluminum", "price": 285.24, "swatchUrl": "http://shapeways.com/rrstatic/img/materials/swatch-aluminum.png" },
-    { "id": 9, "name": "Bronze", "price": 568.11, "swatchUrl": "http://shapeways.com/rrstatic/img/materials/swatch-raw-bronze-20140116.png" },
-    { "id": 10, "name": "Gold Plated Brass", "price": 840.80, "swatchUrl": "http://shapeways.com/rrstatic/img/materials/swatch-plated-brass-14k.png" },
-    { "id": 11, "name": "Brass", "price": 568.11, "swatchUrl": "http://shapeways.com/rrstatic/img/materials/swatch-raw-brass-20140116.png" },
-    { "id": 12, "name": "Rhodium Plated Brass", "price": 840.80, "swatchUrl": "http://shapeways.com/rrstatic/img/materials/swatch-plated-brass-rhodium.png" },
-    { "id": 13, "name": "Silver", "price": 1136.22, "swatchUrl": "http://shapeways.com/rrstatic/img/materials/silver.jpg" },
-    { "id": 14, "name": "Gold", "price": 12073, "swatchUrl": "http://shapeways.com/rrstatic/img/materials/swatch-14k-gold-20140702.png" },
-    { "id": 15, "name": "Platinum", "price": 41528.67, "swatchUrl": "http://shapeways.com/rrstatic/img/materials/swatch-platinum-20150206.png" },
-	{ "id": 16, "name": "Sandstone", "price": 24.54, "swatchUrl": "http://shapeways.com/rrstatic/img/materials/sandstone_no_color.jpg" }
+    { "id": 1, "name": "Multi Jet Fusion Plastic", "price": 36.12, "swatchUrl": "http://shapeways.com/rrstatic/img/materials/swatch-bsf-gray.png" }
   ]
 }

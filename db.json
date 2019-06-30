@@ -3,6 +3,8 @@
     { "id": 645, "name": "test-cube"}
   ],
   "materials": [
+   {"id": 1, "name": "Multi Jet Fusion Plastic", "price": 36.12, "swatchUrl": "http://shapeways.com/rrstatic/img/materials/swatch-bsf-gray.png"},
+    { "id": 2, "name": "Versatile Plastic", "price": 16.50, "swatchUrl": "http://shapeways.com/rrstatic/img/materials/plastic_wsf_white.jpg" },
     { "id": 3, "name": "Fine Detail Plastic", "price": 46.17, "swatchUrl": "http://shapeways.com/rrstatic/img/materials/swatch-fud-20150310.png" },
     { "id": 4, "name": "SLA Plastic", "price": 105.60, "swatchUrl": "http://shapeways.com/files/cms/materials/Swatch_SLA_Grey.jpg" },
     { "id": 5, "name": "PLA11 (SLA)", "price": 35.01, "swatchUrl": "http://shapeways.com/rrstatic/img/materials/plastic_wsf_white.jpg" },

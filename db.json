@@ -1,11 +1,10 @@
 {
   "models": [
     { "id": 645, "name": "test-cube"},
-    { "id": 759, "name": "testdafd-cube"}
+    { "id": 645dd, "name": "testdafd-cube"}
   ],
   "materials": [
-    { "id": 1, "name": "Multi Jet Fusion Plastic", "price": 36.12, "swatchUrl": "http://shapeways.com/rrstatic/img/materials/swatch-bsf-gray.png" },
-    { "id": 2, "name": "Versatile Plastic", "price": 16.50, "swatchUrl": "http://shapeways.com/rrstatic/img/materials/plastic_wsf_white.jpg" },
-    { "id": 3, "name": "Versatile Plastic", "price": 16.50, "swatchUrl": "http://shapeways.com/rrstatic/img/materials/plastic_wsf_white.jpg" }
+   {"name": "what the fuck"}
+   {"name": "wow"}
   ]
 }
